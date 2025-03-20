@@ -33,6 +33,13 @@ cd metaDMG-cpp
 make HTTSRC=../htslib
 ```
 
+### For this fork:
+```
+git clone https://github.com/z-yilectronic/test_metaDMGlonger200bp.git
+cd metaDMG-cpp
+make HTTSRC=../htslib
+```
+
 ### To install HTSlib:
 ```
 git submodule update --init --recursive
