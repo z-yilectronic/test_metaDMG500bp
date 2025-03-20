@@ -36,7 +36,7 @@ make HTTSRC=../htslib
 ### For this fork:
 ```
 git clone https://github.com/z-yilectronic/test_metaDMGlonger200bp.git
-cd metaDMG-cpp
+cd test_metaDMGlonger200bp
 make HTTSRC=../htslib
 ```
 
